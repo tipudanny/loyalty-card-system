@@ -6,7 +6,8 @@ Login Users - Admin
             - Sub admin
             - User
             - You can create any role
-           
+ # Live Link 
+    http://loyalty.tipu.me/
  # Services
     You can create ant services and assign the percentage you have offer for customer or card-hoder.
     Find all service according to customer
