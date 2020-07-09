@@ -1,0 +1,143 @@
+
+/* Datat Table Sorting Background Image Hide */
+table.dataTable thead .sorting {
+    background-image: none !important;
+}
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc {
+    background-image: url(../images/sort_as.png) !important;
+}
+.packg-table th, .packg-table td {
+    padding: 2px !important;
+}
+label.dt-search {
+    display: inline-flex;
+}
+table.dataTable thead th, table.dataTable thead td {
+    border-bottom: 1px solid #fff !important;
+}
+table.dataTable {
+     border-collapse: collapse !important; 
+}
+
+a.paginate_button.current {
+    
+    background: #3490dc !important;
+}
+div#example1_paginate span a {
+    color: #ffffff !important;
+    padding: 2px 10px;
+}
+div#example1_paginate {
+    font-size: 10px !important;
+}
+
+/*Export Buttons Custome Design*/
+.dt-buttons {
+    float: right;
+}
+
+.dataTables_filter{
+    margin-right: 10px !important;
+}
+.dataTables_wrapper .dataTables_filter input{
+    margin-left: 0.5em;
+    margin-top: -3px !important;
+}
+
+/* Datat Table Sorting Background Image Hide */
+
+/* ================================ Bootsrtap btn-sm Custome */
+.btn-sm, .btn-group-sm > .btn {
+    padding: 0.2rem 0.4rem !important;
+    font-size: 0.70rem !important;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+}
+/* ================================ */
+
+/*================ Snipper Area Desiogn START============= */
+.spninner-area {
+    text-align: center;
+    height: 70vh;
+}
+.spinner-div {
+    position: sticky;
+    top: 45%;
+}
+/*================ Snipper Area Desiogn END ============== */
+
+/* Select2 Area Design START */
+
+span.select2.select2-container.select2-container--default.select2-container--below {
+    width: 100% !important;
+}
+span.select2.select2-container.select2-container--default {
+    width: 100% !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 22px !important;
+    margin-top: -7px !important;
+}
+
+/* Select2 Area Design END*/
+
+/* Logo Area Design */
+.brand-link .brand-image {
+    float: left;
+    line-height: .8;
+    margin: 0 auto;
+    margin-top: -3px;
+    max-height: 100px !important;
+    width: 100%;
+    border-radius: 5px;
+}
+.brand-link{
+    border-bottom:none !important;
+}
+/* Logo Area Design */
+
+.sidebar-dark-primary 
+.nav-sidebar > 
+.nav-item > 
+.nav-link.active, 
+.sidebar-light-primary 
+.nav-sidebar > 
+.nav-item > 
+.nav-link.active {
+    background-color: #494e53;
+    color: #ffffff;
+}
+
+[class*='sidebar-dark-'] 
+.nav-treeview > .nav-item > .nav-link.active, 
+[class*='sidebar-dark-'] .nav-treeview > .nav-item > .nav-link.active:hover, 
+[class*='sidebar-dark-'] .nav-treeview > .nav-item > .nav-link.active:focus {
+    background-color: rgb(73, 78, 83);
+    color: #ffffff;
+}
+
+[class*='sidebar-dark-'] {
+    background-color: #141516;
+}
+
+/* Packages Table Custome Design */
+.packg-table th, .packg-table td {
+    padding: 5px !important;
+}
+
+.packg-en{
+	color: green;
+}
+.packg-de{
+	color: red;
+}
+.swal-height{
+	height: 100px !important;
+	font-size: 8px !important;
+}
+.label-info{
+	width: 90px;
+}

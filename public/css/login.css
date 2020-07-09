@@ -1,0 +1,34 @@
+main.py-4 {
+    background: #653207;
+    height: 100vh;
+}
+
+.login-box, .register-box {
+    margin: 0 auto;
+}
+.login-logo {
+    background-color: #b95704 !important;
+    padding-top: 4px;
+    margin-bottom: 10px !important;
+    padding-bottom: 4px;
+}
+.login-logo img {
+    width: 97%;
+    height: 142px;
+}
+.login-box-msg, .register-box-msg {
+    margin: 0;
+    padding: 0 0px 10px;
+    text-align: center;
+    font-size: 25px;
+    color: #b95704;
+    font-weight: 700;
+}
+
+.login-logo a {
+    text-decoration: none;
+    display: none;
+}
+.sign-in-btn{
+	background: #b95704;
+}
